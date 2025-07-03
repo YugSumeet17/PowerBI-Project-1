@@ -1,13 +1,4 @@
 # Ecommerce Sales PowerBI Project 1
-Ecommerce Sales Project Details
-Project Key-Point:
--> Data Collection
--> Data Cleaning & Data Wrangling
--> Data Modeling
--> Data Visualization 
--> Dashboard Design 
--> Sharing Insights
-
 Project Learnings:
 -> Created interactive dashboard to track and analyze online sales data
 -> Used complex parameters to drill down in worksheet and customization using filters and slicers
